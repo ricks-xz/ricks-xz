@@ -10,8 +10,9 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ricks-xz&theme=tokyonight&show_icons=false">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricks-xz&theme=tokyonight&langs_count=8"> 
 </div>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet" />
   </a>
 </p>
