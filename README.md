@@ -1,4 +1,7 @@
-## Hi 👋
+## Hi, my name is Ricardo Rios, welcome to my profile! 👋
+
+- Graduated in Full Stack Web Java Development from Instituto PROA! ⛵
+- Currently studying Systems Analysis and Development at Cruzeiro do Sul University. 👾
 
 <div> 
   <a href="mailto:ricardovu1@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
