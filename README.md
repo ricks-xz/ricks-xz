@@ -1,6 +1,6 @@
 ## Oi, meu nome é Ricardo Rios, seja bem vindo ao meu perfil! 👋
 
-- Atualmente estudo na Universidade Cruzeiro do Sul, no Curso Superior de Análise e Desenvolvimento de Sistemas. 👾
+- Atualmente sou formado em Análise e Desenvolvimento de Sistemas, e estou começando a estudar Java. ☕
 
 <div> 
   <a href="mailto:ricardovu1@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
