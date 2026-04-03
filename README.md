@@ -1,6 +1,6 @@
-## Hi, my name is Ricardo Rios, welcome to my profile! 👋
+## Olá, meu nome é Ricardo Rios, seja bem-vindo(a) ao meu perfil! 👋
 
-- I currently have a degree in Systems Analysis and Development, and I am starting to study Java. ☕
+- Atualmente, sou graduado em Análise e Desenvolvimento de Sistemas e estou começando a estudar Java. ☕
 
 <div> 
   <a href="mailto:ricardovu1@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
